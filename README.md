@@ -1,2 +1,2 @@
 # GUI
-Basic GUI Element
+**Basic GUI Element**
